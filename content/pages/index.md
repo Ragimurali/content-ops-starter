@@ -691,11 +691,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Write to us to tell us how we can help you.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Looking to buy, sell, or rent a property in Kerala ? Submit your details
+      below and our real estate expert will reach out to you quickly
     media:
       fields:
         - name: name
