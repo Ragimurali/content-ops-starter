@@ -15,7 +15,7 @@ sections:
       rent, lease, office space, commercial needs), we find and sell them
       according to your needs.
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
