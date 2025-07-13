@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: '"Find Your Dream Home in Trivandrum"'
+      text: '"Find Your Dream Home in Kerala"'
       color: text-dark
       type: TitleBlock
     subtitle: ''
